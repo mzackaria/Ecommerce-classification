@@ -2,7 +2,7 @@
 
 Ce projet est un projet est un projet réalisé pendant la formation Openclassroom Data scientist:
 
-Il s'agit de développez un --moteur de recommendations de films--.
+Il s'agit de développez un --segmentez les comportements clients--.
 
 Vous trouverez dans ce dossier:
 
