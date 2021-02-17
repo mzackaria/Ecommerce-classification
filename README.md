@@ -1,4 +1,4 @@
-# Projet-5
+# Ecommerce classification
 
 Ce projet est un projet est un projet réalisé pendant la formation Openclassroom Data scientist:
 
